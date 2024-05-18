@@ -1,0 +1,7 @@
+"status": 400,
+  "type": "invalid content",
+  "content": {
+    "type": "Duplicate",
+    "description": "Ignoring duplicate verification callbacks."
+  },
+  "error": "invalid transaction
